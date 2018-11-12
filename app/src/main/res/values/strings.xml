@@ -1,8 +1,13 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Login</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="name">Kimberly</string>
     <string name="welcome">Hello</string>
+    <string name="userTxt">User</string>
+    <string name="passTxt">Pass</string>
+    <string name="codigoTxt">Code</string>
+    <string name="enviarTxt">Send</string>
+
 </resources>

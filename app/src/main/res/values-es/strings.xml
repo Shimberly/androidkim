@@ -1,8 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Inicio Sesión</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
     <string name="name">Kimberly</string>
     <string name="welcome">Hola</string>
+    <string name="userTxt">Usuario</string>
+    <string name="passTxt">Contraseña</string>
+    <string name="codigoTxt">Código</string>
+    <string name="enviarTxt">Enviar</string>
 </resources>
